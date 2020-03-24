@@ -1,0 +1,2 @@
+rootProject.name='Stay At Home'
+include ':app'
